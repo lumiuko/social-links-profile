@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](blob:https://imgur.com/3ee54959-be8f-43c3-a9af-0a71647e4625)
+![](https://i.imgur.com/Jz2OHCp.png)
 
 ### Links
 
